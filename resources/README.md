@@ -1,3 +1,9 @@
 # Learning Contentful Project
       
-Links, reading notes and other resources are placed here
+### Contentful with GatsbyJS
+
+- [ ] https://www.contentful.com/r/knowledgebase/gatsbyjs-and-contentful-in-five-minutes/
+
+### Contentful with NextJS
+
+- [ ] https://www.contentful.com/blog/2018/05/09/building-portfolio-website-contentful-nextjs-netlify/
